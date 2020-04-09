@@ -1,1 +1,1 @@
-"# zad2" 
+"WSB JAVA - zad2" 
